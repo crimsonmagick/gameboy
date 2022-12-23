@@ -1,3 +1,8 @@
+package com.mangomelancholy.gameboy.emulator.components.processor;
+
+import com.mangomelancholy.gameboy.emulator.components.memory.Memory;
+import com.mangomelancholy.gameboy.emulator.components.input.InputController;
+
 public class Processor {
   // Constants for the size of the processor's registers and memory
   private static final int NUM_REGISTERS = 8;

@@ -1,3 +1,5 @@
+package com.mangomelancholy.gameboy.emulator.components.display;
+
 public class Sprite {
   // Constants for the size of a sprite
   private static final int WIDTH = 8;

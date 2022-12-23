@@ -1,3 +1,5 @@
+package com.mangomelancholy.gameboy.emulator.components.memory;
+
 public class Memory {
 
   private byte[] romData;

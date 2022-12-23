@@ -1,3 +1,5 @@
+package com.mangomelancholy.gameboy.emulator.components.input;
+
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 

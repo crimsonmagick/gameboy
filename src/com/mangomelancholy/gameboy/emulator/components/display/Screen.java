@@ -1,4 +1,6 @@
-class Screen {
+package com.mangomelancholy.gameboy.emulator.components.display;
+
+public class Screen {
     private final boolean[][] data;
     private final int width;
     private final int height;

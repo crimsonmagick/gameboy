@@ -1,3 +1,5 @@
+package com.mangomelancholy.gameboy.emulator.components.processor;
+
 public class InterruptController {
   // Constants for the different interrupt types
   public static final int INTERRUPT_VBLANK = 0;

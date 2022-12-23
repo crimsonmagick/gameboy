@@ -1,3 +1,11 @@
+package com.mangomelancholy.gameboy.emulator;
+
+import com.mangomelancholy.gameboy.emulator.components.display.Screen;
+import com.mangomelancholy.gameboy.emulator.components.display.Sprite;
+import com.mangomelancholy.gameboy.emulator.components.input.InputController;
+import com.mangomelancholy.gameboy.emulator.components.memory.Memory;
+import com.mangomelancholy.gameboy.emulator.components.processor.Processor;
+
 public class GameBoyEmulator {
     // Constants for the size of the GameBoy's memory and other hardware components
     private static final int MEMORY_SIZE = 0x10000; // 64KB of memory
